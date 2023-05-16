@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rafael.noraa08@gmail.com**
 
-- ⚡ Fun fact **I hate Typescript but I still love it**
+- ⚡ Fun fact **I hate Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
