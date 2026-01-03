@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2024 - To: 31 December 2025
+From: 19 April 2024 - To: 02 January 2026
 
-Total Time: 450 hrs 27 mins
+Total Time: 451 hrs 21 mins
 
-TypeScript       264 hrs 49 mins >>>>>>>>>>>>>>>----------   58.23 %
-Rust             57 hrs 8 mins   >>>----------------------   12.57 %
-Go               17 hrs 40 mins  >------------------------   03.89 %
-Python           15 hrs 43 mins  >------------------------   03.46 %
-JavaScript       14 hrs 4 mins   >------------------------   03.10 %
+TypeScript       264 hrs 49 mins >>>>>>>>>>>>>>>----------   58.12 %
+Rust             57 hrs 58 mins  >>>----------------------   12.72 %
+Go               17 hrs 40 mins  >------------------------   03.88 %
+Python           15 hrs 43 mins  >------------------------   03.45 %
+JavaScript       14 hrs 4 mins   >------------------------   03.09 %
 Markdown         8 hrs 5 mins    -------------------------   01.78 %
 Astro            5 hrs 53 mins   -------------------------   01.29 %
-TSConfig         5 hrs 15 mins   -------------------------   01.16 %
+TSConfig         5 hrs 15 mins   -------------------------   01.15 %
 ```
 
 <!--END_SECTION:waka-->
