@@ -31,18 +31,18 @@ obsessed with optimization and clean unix environments.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2024 - To: 23 June 2026
+From: 19 April 2024 - To: 24 June 2026
 
-Total Time: 512 hrs 55 mins
+Total Time: 514 hrs 26 mins
 
-TypeScript        267 hrs 45 mins       >>>>>>>>>>>>>------------   51.77 %
-Rust              87 hrs 40 mins        >>>>---------------------   16.95 %
-Go                17 hrs 41 mins        >------------------------   03.42 %
-Python            15 hrs 49 mins        >------------------------   03.06 %
-JavaScript        14 hrs 9 mins         >------------------------   02.74 %
+TypeScript        267 hrs 45 mins       >>>>>>>>>>>>>------------   51.62 %
+Rust              88 hrs                >>>>---------------------   16.96 %
+Go                17 hrs 41 mins        >------------------------   03.41 %
+Python            15 hrs 49 mins        >------------------------   03.05 %
+JavaScript        14 hrs 9 mins         >------------------------   02.73 %
 Markdown          9 hrs 56 mins         -------------------------   01.92 %
 Astro             6 hrs 21 mins         -------------------------   01.23 %
-TSConfig          5 hrs 20 mins         -------------------------   01.03 %
+Nix               5 hrs 56 mins         -------------------------   01.15 %
 ```
 
 <!--END_SECTION:waka-->
