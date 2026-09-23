@@ -31,7 +31,7 @@ obsessed with optimization and clean unix environments.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2024 - To: 20 September 2026
+From: 19 April 2024 - To: 21 September 2026
 
 Total Time: 558 hrs 25 mins
 
